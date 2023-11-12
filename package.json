@@ -1,0 +1,23 @@
+{
+  "name": "name",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite --port 5050",
+    "build": "vite build --base=/name/",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@rollup/plugin-image": "^3.0.2",
+    "vite": "^4.3.9",
+    "vite-plugin-html-inject": "^1.0.1"
+  },
+  "author": "Vitalii Sapiak <vsapiak5@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^10.3.1",
+    "sass": "^1.63.6",
+    "vite-plugin-full-reload": "^1.0.5"
+  }
+}
