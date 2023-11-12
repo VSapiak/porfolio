@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "vite --port 5050",
-    "build": "vite build --base=/name/",
+    "build": "vite build --base=/porfolio/",
     "preview": "vite preview"
   },
   "devDependencies": {

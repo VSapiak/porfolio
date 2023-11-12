@@ -5,7 +5,7 @@ import FullReload from 'vite-plugin-full-reload';
 import image from '@rollup/plugin-image';
 
 export default defineConfig({
-    base: '/name/',
+    base: '/porfolio/',
 
     root: 'src',
     build: {
